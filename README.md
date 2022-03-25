@@ -1,3 +1,3 @@
-- Hi, I’m @UnityNotTheEngine
+- Hi, I’m Ian
 - I’m interested in Networking and Automation
 - I’m currently learning javascript to enter the world of programming
